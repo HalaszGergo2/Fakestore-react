@@ -1,6 +1,6 @@
 import React from 'react'
-import Kosar from "../components/Kosar";
-import Termekek from "../components/Termekek";
+import Kosar from '../public/Kosar';
+import Termekek from '../public/Termekek';
 
 function Public() {
   return (

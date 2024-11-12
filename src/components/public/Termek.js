@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import { KosarContext } from '../contexts/KosarContext'
+import { KosarContext } from '../../contexts/KosarContext'
 
 function Termek(props) {
     const {kosarba}=useContext(KosarContext)
